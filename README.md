@@ -1,13 +1,21 @@
-- 👋 Hi, I’m Mwangangi. I graduated from Kibabii University with a bachelor's degree in science and information technology, second class upper division.
-- 👀My field of specialization is web development, where I write Python, PHP, JS, and their frameworks. I love writing algorithms.
-- I have 3 years of experience in Laravel and PHP.
-- 🌱 I’m currently learning and developing websites using Vue js and Laravel.
-- 💞️ I’m looking to collaborate on projects...
-- 📫 How to reach me via ...
-on twitter @vinny74834837
-linked in: linkedin.com/in/vincent-mwangangi-1909091b5
+Hi there! 👋 I'm Vincent Mwangangi
+I'm a passionate software engineer with a strong background in building scalable applications, focusing on web development, backend services, and API integrations. I enjoy working on diverse projects and learning new technologies to enhance my skill set.
 
-<!---
-mwangangi1998/mwangangi1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 What I do:
+- Frontend Development: Vue.js, React, HTML/CSS, JavaScript/TypeScript
+- Backend Development: Node.js, PHP, Laravel, Python, Java, RESTful APIs, 
+- Databases: MySQL, PostgreSQL, MongoDB
+- DevOps: Docker, CI/CD, AWS, GCP, Azure
+- Other Tools: Git, Pinia, OpenAI tools
+🔧 Current Interests:
+- Building and scaling web applications
+- Implementing AI/ML solutions in practical applications
+- Exploring the latest in cloud infrastructure and microservices
+
+🌱 Learning Goals:
+- Enhancing my knowledge in serverless architecture and containerization.
+- Diving deeper into natural language processing (NLP) to extract insights from unstructured data.
+
+⚡ Fun Fact:
+- I love solving challenging problems, whether it's debugging code or solving complex puzzles!
+
