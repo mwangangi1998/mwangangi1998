@@ -7,7 +7,9 @@ I'm a passionate software engineer with a strong background in building scalable
 - Databases: MySQL, PostgreSQL, MongoDB
 - DevOps: Docker, CI/CD, AWS, GCP, Azure
 - Other Tools: Git, Pinia, OpenAI tools
+
 🔧 Current Interests:
+
 - Building and scaling web applications
 - Implementing AI/ML solutions in practical applications
 - Exploring the latest in cloud infrastructure and microservices
